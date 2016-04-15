@@ -27,5 +27,6 @@
     "files": [
       "lib"
     ]
-  }
+  },
+  "main": "./undomanager.js"
 }
